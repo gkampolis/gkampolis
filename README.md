@@ -1,20 +1,12 @@
 ### Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm George
 
-<a href="https://twitter.com/gkampolis">
-  <img align="left" alt="George's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/gkampolis/">
-  <img align="left" alt="George's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/gkampolis">
-  <img align="left" alt="George's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+[![Twitter Badge](https://img.shields.io/badge/-@gkampolis-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gkampolis)](https://twitter.com/gkampolis) [![Linkedin Badge](https://img.shields.io/badge/-GeorgeKampolis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gkampolis/)](https://www.linkedin.com/in/gkampolis)
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-- Passionate about ML & Renewables
-- EngD student at the University of Strathclyde (Wind & Marine Energy Systems)
-- Currently working on machine learning and signal processing in O&M of wind turbines
+- Passionate about Data Science & Renewables. Believes in Open Source.
+- Currently an EngD student at the University of Strathclyde (Wind & Marine Energy Systems).
+- Working on machine learning and signal processing in O & M of wind turbines.
 - Working mostly with R, Python, Docker and Linux. 
  - Feel free to get in touch if you share any of the interests above!
 
