@@ -1,4 +1,4 @@
-### Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm George
+### Hi! I'm George <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
 [![Twitter Badge](https://img.shields.io/badge/-@gkampolis-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gkampolis)](https://twitter.com/gkampolis) [![Linkedin Badge](https://img.shields.io/badge/-GeorgeKampolis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gkampolis/)](https://www.linkedin.com/in/gkampolis)
 <br />
