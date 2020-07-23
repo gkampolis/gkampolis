@@ -1,4 +1,4 @@
-Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm George
+### Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm George
 
 <a href="https://twitter.com/gkampolis">
   <img align="left" alt="George's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -12,7 +12,6 @@ Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/ma
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I'm George Kampolis
 - Passionate about ML & Renewables
 - EngD student at the University of Strathclyde (Wind & Marine Energy Systems)
 - Currently working on machine learning and signal processing in O&M of wind turbines
