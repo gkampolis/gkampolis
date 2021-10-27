@@ -8,6 +8,6 @@
 -->
 - Passionate about Data Science & Renewables. Believes in Open Source.
 - Currently an EngD student at the University of Strathclyde (Wind & Marine Energy Systems & Structures).
-- Working on machine learning and signal processing in O&M of wind turbines.
-- Working mostly with R, Python, SQL, Docker and Linux. 
+- Working on machine learning and signal processing in Operations and Maintenance of wind turbine drivetrains.
+- Working mostly with Python and Linux (WSL2, Pop OS, Arch/Manjaro). A bit of R, SQL and Docker occasionally. 
 - Feel free to get in touch if you share any of the interests above!
