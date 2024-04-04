@@ -9,9 +9,14 @@
 <!--
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 -->
+
 - Passionate about Data Science, Machine Learning & Renewables. Believes in Open Source.
 - Currently a PhD student at the University of Strathclyde (Wind & Marine Energy Systems & Structures).
+  
 - Working on machine learning and signal processing in Operations and Maintenance of wind turbine drivetrains.
+  
 - Working mostly with Python and terminal (Linux & Mac). A bit of R, SQL and Docker occasionally. 
+  
 - Besides engineering and coding, I'm into photography. You can find more at my instagram profile linked above.
+  
 - Feel free to get in touch if you share any of the interests above!
